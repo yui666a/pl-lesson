@@ -1,0 +1,4 @@
+AuthType     Basic
+AuthName     "AISO"
+AuthUserFile /member/.htpasswd
+require valid-user
